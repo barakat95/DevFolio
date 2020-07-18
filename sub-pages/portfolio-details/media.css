@@ -1,0 +1,16 @@
+@media screen and (min-width: 500px) and (max-width: 768px) {
+  .project-info {
+    background-color: white;
+    position: relative;
+    top: 100%;
+    z-index: 9999;
+    text-align: left;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  .carousel-indicators {
+    top: 50%;
+    z-index: 99999;
+    padding-left: 80px;
+  }
+}

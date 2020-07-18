@@ -1,0 +1,8 @@
+@media screen and (min-width:500px) and (max-width:755px){
+    .header-name h1 {
+        font-size: 3rem;
+      }
+      .header-job-title::after {
+        font-size: 2rem;
+      }
+}
